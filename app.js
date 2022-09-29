@@ -1,3 +1,4 @@
+//1st
 function google(arr,k) {
   for (let i = 0; i <= arr.length - k; i++) {
     let max = arr[i];
@@ -12,6 +13,8 @@ function google(arr,k) {
 let arr =[1, 3, -1, -3, 5, 3, 6, 7]
 let k = 3
 google(arr,k);
+
+//2nd
 
 const maxİnput = (q, k) => {
   const length = q.length;
